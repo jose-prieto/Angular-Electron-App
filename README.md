@@ -7,7 +7,7 @@ Aplicación de escritorio multiplataforma realizada con tecnología Web en el Si
 ## Tabla de contenido
 
 - **[Beneficios de utilizar estas herramientas](#Beneficios-de-utilizar-estas-herramientas)**
-  - *[Ubuntu](#Ubuntu)*
+  - *[Ubuntu](#![Ubuntu-logo](assets/UbuntuP.png)-Ubuntu)*
   - *[Electron](#Electron)*
   - *[Angular](#Angular)*
   - *[NodeJS](#NodeJS)*
