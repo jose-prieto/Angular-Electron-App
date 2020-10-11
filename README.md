@@ -8,9 +8,9 @@ Aplicación de escritorio multiplataforma realizada con tecnología Web en el Si
 
 - **[Beneficios de utilizar estas herramientas](#Beneficios-de-utilizar-estas-herramientas)**
   - *[Ubuntu](#-ubuntu)*
-  - *[Electron](#![Electron](assets/ElectronP.png)-Electron)*
-  - *[Angular](#![Angular](assets/AngularP.png)-Angular)*
-  - *[NodeJS](#![NodeJS](assets/NodeP.png)-NodeJS)*
+  - *[Electron](#-Electron)*
+  - *[Angular](#-Angular)*
+  - *[NodeJS](#-NodeJS)*
 - **[Instrucciones de instalación](#installation-instructions)**
 
 ## Beneficios de utilizar estas herramientas
