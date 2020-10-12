@@ -24,11 +24,11 @@ Not the faster OS but the one with the most robust infrastructure, backed up wit
 
 ### ![Electron](assets/ElectronP.png) Electron
 
-Basically Electron's job is making a pc capable to run a website in a desktop app, in other words, what we are about to run is a website (html, css and javascript) inside a desktop window.
+Basically Electron's job to make our pc capable to run a website in a desktop window, in other words, what we are about to build is a website (html, css and javascript) inside a desktop window.
 
 ### ![Angular](assets/AngularP.png) Angular
 
-We need to be able to run a modularize UI and Angular helps us doing it easier.
+We need to be able to run a modularize UI and Angular helps doing it easier to us.
 
 ### ![NodeJS](assets/NodeP.png) NodeJS
 
@@ -40,11 +40,11 @@ before running this App we need to install some dependencies as:
 
 - Install nodejs by clickin the following [Link](https://nodejs.org/es/download/) and follow the instructions.
 
-![NodejsInstall](assets/NodejsInstall.png)
+![NodejsInstall](assets/NodejsInstall.PNG)
 
 - Once nodejs is installed open the cmd (win+r and type cmd and then press enter).
 
-![tocmd](assets/tocmd.png) ![cmd](assets/cmd.png)
+![tocmd](assets/tocmd.PNG) ![cmd](assets/cmd.PNG)
 
 - Install npm by typing inside the cmd window:
 
@@ -86,10 +86,14 @@ And then
 
 >git init
 
-- Finally install electron locally to get de "node_modeles" directory to run corectly the App by typing:
+- Finally install electron locally to get de "node_modeles" directory to run correctly the App by typing:
 
 >npm install electron --save-dev
 
-Now run it typing
+- Now run it by typing
 
 >npm run electron
+
+# Donde
+
+![Windows logo](assets/Windows.PNG)
