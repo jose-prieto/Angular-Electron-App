@@ -2,7 +2,7 @@
 
 ![Windows logo](assets/Windows.png) ![Electron logo](assets/Electron.png) ![Angular logo](assets/Angular.png) ![Node logo](assets/Node.png)
 
-Multiplatform desktop app based on Web technologies usin Ubuntu Operating System.
+Multiplatform desktop app based on Web technologies using Windows Operating System.
 
 ## Content table
 
@@ -15,10 +15,10 @@ Multiplatform desktop app based on Web technologies usin Ubuntu Operating System
 
 ## Benefits of using these tools
 
-Desktop and web developers can be unified using Electron, giving the possibility to build native and multi-platform desktop apps using web technology makes this option an incredibly powerful tool.
-By making this small project we are going to end up in a useful knowledge helpful in a real-life project.
+Desktop and web developers can be unified using Electron, the framework that gives the possibility to build native multi-platform desktop apps using web technology.
+By making this small project we are going to end up in an useful knowledge, helpful in a real-life project.
 
-### ![Windows](assets/WindowsP.png) Ubuntu
+### ![Windows](assets/WindowsP.png) Windows
 
 Not the faster OS but the one with the most robust infrastructure, backed up with a multimillionaire company like microsoft who gives us the easiest way to integrate all these technologies.
 
@@ -38,9 +38,13 @@ This is a run-time environment where all the previously seen technologies gets u
 
 before running this App we need to install some dependencies as:
 
-- Install nodejs by clickin the following [Link](https://nodejs.org/es/download/) and follow the instructions. ![NodejsInstall](assets/NodejsInstall.png)
+- Install nodejs by clickin the following [Link](https://nodejs.org/es/download/) and follow the instructions.
 
-- Once nodejs is installed open the cmd (win+r and type cmd and then press enter). ![tocmd](assets/tocmd.png) ![cmd](assets/cmd.png)
+![NodejsInstall](assets/NodejsInstall.png)
+
+- Once nodejs is installed open the cmd (win+r and type cmd and then press enter). ![tocmd](assets/tocmd.png)
+
+![cmd](assets/cmd.png)
 
 - Install npm by typing inside the cmd window:
 
