@@ -42,9 +42,9 @@ before running this App we need to install some dependencies as:
 
 ![NodejsInstall](assets/NodejsInstall.png)
 
-- Once nodejs is installed open the cmd (win+r and type cmd and then press enter). ![tocmd](assets/tocmd.png)
+- Once nodejs is installed open the cmd (win+r and type cmd and then press enter).
 
-![cmd](assets/cmd.png)
+![tocmd](assets/tocmd.png) ![cmd](assets/cmd.png)
 
 - Install npm by typing inside the cmd window:
 
