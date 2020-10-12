@@ -1,13 +1,13 @@
 # Angular-Electron-App
 
-![Ubuntu logo](assets/Ubuntu.png) ![Electron logo](assets/Electron.png) ![Angular logo](assets/Angular.png) ![Node logo](assets/Node.png)
+![Windows logo](assets/Windows.png) ![Electron logo](assets/Electron.png) ![Angular logo](assets/Angular.png) ![Node logo](assets/Node.png)
 
 Multiplatform desktop app based on Web technologies usin Ubuntu Operating System.
 
 ## Content table
 
 - **[Benefits of using these tools](#Benefits-of-using-these-tools)**
-  - *[Ubuntu](#-ubuntu)*
+  - *[Windows](#-Windows)*
   - *[Electron](#-Electron)*
   - *[Angular](#-Angular)*
   - *[NodeJS](#-NodeJS)*
@@ -18,9 +18,9 @@ Multiplatform desktop app based on Web technologies usin Ubuntu Operating System
 Desktop and web developers can be unified using Electron, giving the possibility to build native and multi-platform desktop apps using web technology makes this option an incredibly powerful tool.
 By making this small project we are going to end up in a useful knowledge helpful in a real-life project.
 
-### ![Ubuntu](assets/UbuntuP.png) Ubuntu
+### ![Windows](assets/WindowsP.png) Ubuntu
 
-For me, the best attribute about this OS is that it goes straight to the point on what a software developer wants (quickness), almost no applications running background helps to improve speed of our computer, in addition, is a very robust Operating System.
+Not the faster OS but the one with the most robust infrastructure, backed up with a multimillionaire company like microsoft who gives us the easiest way to integrate all these technologies.
 
 ### ![Electron](assets/ElectronP.png) Electron
 
@@ -35,3 +35,57 @@ We need to be able to run a modularize UI and Angular helps us doing it easier.
 This is a run-time environment where all the previously seen technologies gets unified.
 
 ## How to run the App
+
+before running this App we need to install some dependencies as:
+
+- Install nodejs by clickin the following [Link](https://nodejs.org/es/download/) and follow the instructions. ![NodejsInstall](assets/NodejsInstall.png)
+
+- Once nodejs is installed open the cmd (win+r and type cmd and then press enter). ![tocmd](assets/tocmd.png) ![cmd](assets/cmd.png)
+
+- Install npm by typing inside the cmd window:
+
+>npm install npm@latest -g
+
+- Now install electron by typing:
+
+>npm i -D electron@latest
+
+If it does not work try with any of these ones.
+
+>npm i -D electron@beta
+
+or
+
+>npm i -D electron-nightly
+
+Or run this command
+
+>npm cache clean --force
+
+And then try it again
+
+- Now, to install Angular type:
+
+>npm install -g @angular/cli
+
+- If you don't have git, follow the next [Link](https://git-scm.com/) and install it by following the instructions.
+
+- Open git bash and type:
+
+>`https://github.com/jose-prieto/Angular-Electron-App.git`
+
+Then
+
+>cd Angular-Electron-App
+
+And then
+
+>git init
+
+- Finally install electron locally to get de "node_modeles" directory to run corectly the App by typing:
+
+>npm install electron --save-dev
+
+Now run it typing
+
+>npm run electron
