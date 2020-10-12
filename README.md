@@ -94,6 +94,6 @@ And then
 
 >npm run electron
 
-# Donde
+## Done
 
-![Windows logo](assets/Windows.PNG)
+![Done](assets/Done.PNG)
